@@ -22,7 +22,7 @@ To run the object detection inferences on the game, follow the steps below:
 4. Open the ```label_map_util.py``` file and Edit **Line 132** by replacing ```with tf.gfile.GFile(path, 'r') as fid:``` with ```with tf.io.gfile.GFile(path, 'r') as fid:```. 
 You will find this file in the following path: ```C:\Users\<your-username>\AppData\Local\Programs\Python\Python37\Lib\site-packages\object_detection\utils```
 
-5. Open GTA: Vice City game. In the display settings of the game, change the screen to windowded mode and preferrably set the resolution to 1024x768.
+5. Open the **GTA: Vice City** game. In the display settings of the game, change the screen to windowded mode and preferrably set the resolution to 1024x768.
  
 6. Open command prompt and run ```vice_city_detection.py``` and enjoy playing GTA: Vice City with real-time object detection.
 
