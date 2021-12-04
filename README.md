@@ -1,1 +1,1 @@
-# GTA-Vice-City-Object-Detection-using-TensorFlow
+# GTA Vice City Object Detection using TensorFlow
