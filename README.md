@@ -7,6 +7,8 @@ It is assumed that you already have following things installed on your machine.
 - OpenCV
 - NumPy
 
+If not already, kindly install these first before you move ahead.
+
 To run the object detection inferences on the game, follow the steps below:
 
 ## Steps:
