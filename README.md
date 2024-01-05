@@ -27,6 +27,6 @@ You will find this file in the following path: ```C:\Users\<your-username>\AppDa
 6. Open command prompt and run ```vice_city_detection.py``` and enjoy playing GTA: Vice City with real-time object detection.
 
 
-## Output:
+## Demo Output:
 
 ![GitHub Logo](Output.gif)
